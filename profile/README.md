@@ -1,4 +1,3 @@
-***
 <h1 align='center'>Semantyk</h1>
 <h3 align='center'><i>Ideas Wonder</i></h3>
 <p align='center'>
@@ -9,5 +8,3 @@
   <br>
   <i>Copyright © Semantyk 2021. All rights reserved.</i>
 </p>
-
-***
