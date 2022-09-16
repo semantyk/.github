@@ -6,5 +6,5 @@
   <br>
   <b>August 31, 2017</b>
   <br>
-  <i>Copyright © Semantyk 2021. All rights reserved.</i>
+  <i>Copyright © Semantyk 2022. All rights reserved.</i>
 </p>
