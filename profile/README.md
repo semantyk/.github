@@ -4,5 +4,5 @@
   <img alt='Semantyk' src='https://www.semantyk.com/logo.png' width='250'/>
   <br>
   <br>
-  <i>Copyright © Semantyk 2022. All rights reserved.</i>
+  <i>Copyright © [Semantyk](https://www.semantyk.com) 2022. All rights reserved.</i>
 </p>
