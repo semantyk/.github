@@ -3,6 +3,7 @@
 <p align='center'>
   <img alt='Semantyk' src='https://www.semantyk.com/logo.png' width='250'/>
 </p>
+
 ## Contact
 
 For inquiries or support regarding this project, please reach out to us:
