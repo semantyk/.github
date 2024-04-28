@@ -15,4 +15,4 @@ For inquiries or support regarding this project, please reach out to us:
 Your feedback and questions are greatly appreciated!
 
 ---
-Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2023. All rights reserved.
+Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2024. All rights reserved.
