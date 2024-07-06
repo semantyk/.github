@@ -9,7 +9,7 @@
     <img src="https://www.semantyk.com/icon.png" alt="Semantyk" 
 width="250" />
   </picture>
+  <br>
+  <br>
+  <i>Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2024. All rights reserved.</i>
 </p>
-<br>
-<br>
-<i>Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2024. All rights reserved.</i>
