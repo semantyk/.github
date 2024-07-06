@@ -10,3 +10,6 @@
 width="250" />
   </picture>
 </p>
+<br>
+<br>
+<i>Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2024. All rights reserved.</i>
