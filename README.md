@@ -22,4 +22,4 @@ For inquiries or support regarding this project, please reach out to us:
 Your feedback and questions are greatly appreciated!
 
 ---
-Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2024. All rights reserved.
+<i>Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2024. All rights reserved.<i/>
