@@ -6,10 +6,10 @@
 (prefers-color-scheme: dark)" />
     <source srcset="https://www.semantyk.com/favicon.svg" media="
 (prefers-color-scheme: light)" />
-    <img src="https://www.semantyk.com/icon.png" alt="Semantyk" 
+    <img src="https://www.semantyk.com/icon.png" alt="Semantyk"
 width="250" />
   </picture>
   <br>
   <br>
-  <i>Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2025. All rights reserved.</i>
+  <i><a href="https://www.semantyk.com">Semantyk</a> © 2025. All rights reserved.</i>
 </p>

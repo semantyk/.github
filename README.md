@@ -2,11 +2,11 @@
 <h3 align='center'><i>Ideas Wonder</i></h3>
 <p align='center'>
     <picture>
-    <source srcset="https://www.semantyk.com/icon-dark.svg" media="
+    <source srcset="https://www.semantyk.com/favicon-dark.svg" media="
 (prefers-color-scheme: dark)" />
-    <source srcset="https://www.semantyk.com/icon.svg" media="
+    <source srcset="https://www.semantyk.com/favicon.svg" media="
 (prefers-color-scheme: light)" />
-    <img src="https://www.semantyk.com/icon.png" alt="Semantyk" 
+    <img src="https://www.semantyk.com/favicon.svg" alt="Semantyk"
 width="250" />
   </picture>
 </p>
@@ -22,4 +22,4 @@ For inquiries or support regarding this project, please reach out to us:
 Your feedback and questions are greatly appreciated!
 
 ---
-<i>Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2024. All rights reserved.<i/>
+*[Semantyk](https://www.semantyk.com/) © 2025. All rights reserved.*
