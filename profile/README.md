@@ -11,5 +11,5 @@ width="250" />
   </picture>
   <br>
   <br>
-  <i><a href="https://www.semantyk.com">Semantyk</a> © 2025. All rights reserved.</i>
+  <i><a href="https://www.semantyk.com">Semantyk</a> © 2026. All rights reserved.</i>
 </p>
